@@ -2,9 +2,11 @@
 
 ## About me
 
-- 🔭 I’m currently working on Ruby on Rails and React
-- 🌱 I’m currently learning Javascript, MongoDB, Ruby on Rails, Next.JS and React Hooks
+- 🚀 I have been working in software development for more than 15 years
+- 🔭 I’m currently working on Ruby on Rails, Node, React
+- 🌱 I’m currently learning Javascript, MongoDB, Next.JS and React Hooks
 - 📫 How to reach me: send mail to costafacchini@gmail.com
+- [My resume](https://costafacchini.github.io/resume/)
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costafacchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
