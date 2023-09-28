@@ -2,9 +2,9 @@
 
 ## About me
 
-- 🚀 I have been working in software development for more than 15 years
-- 🔭 I’m currently working on Ruby on Rails, Node, React
-- 🌱 I’m currently learning Javascript, MongoDB, RabbitMQ, GraphQL
+- 🚀 I have been working in software development for more than 18 years
+- 🔭 I’m currently working with Go
+- 🌱 I’m currently learning Event Sourcing, DDD, Clean Architecture
 - 📫 How to reach me: send mail to costafacchini@gmail.com
 - [My resume](https://costafacchini.github.io/resume/)
 
@@ -14,7 +14,7 @@
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costafacchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/></a>
 
 ## Tools
 
