@@ -3,8 +3,9 @@
 ## About me
 
 - 🚀 I have been working in software development for more than 18 years
-- 🔭 I’m currently working with Go
-- 🌱 I’m currently learning Event Sourcing, DDD, Clean Architecture
+- 🔭 I’m currently working with Go, React, Ruby on Rails
+- 🌱 I’m currently learning Event Sourcing, AWS (SQS, SNS, Lambda), DDD
+- ❤️ Lover of Agile [Lean, Kanban, XP] and of good development practices [Clean Code, Code Refactoring, Tests]
 - 📫 How to reach me: send mail to costafacchini@gmail.com
 - [My resume](https://costafacchini.github.io/resume/)
 
