@@ -1,12 +1,10 @@
-### Hi there 👋
-
 ## About me
 
-- 🚀 I have been working in software development for more than 18 years
-- 🔭 I’m currently working with Go, React, Ruby on Rails, Next.JS, Nest.JS
-- 🌱 I’m currently learning Event Sourcing, AWS (SQS, SNS, Lambda), DDD, Kafka
-- ❤️ Lover of Agile [Lean, Kanban, XP] and of good development practices [Clean Code, Code Refactoring, Tests]
-- 📫 How to reach me: send mail to costafacchini@gmail.com
+- I have been working in software development for 20 years building high-performance softwares, and I love it!
+- Languages ​​and frameworks in which I have professional experience: Ruby on Rails, NextJS, NestJS, Python, Golang, Javascript Vanilla
+- Knowledge in various programming paradigms such as OO Programming, MVC architecture, DDD software design approach, TDD, Microservices pattern (ES, ED, CQRS)...
+- Lover of Agile [Lean, Kanban, XP] and of good development practices [Clean Code, Code Refactoring, Tests]
+- How to reach me: send mail to costafacchini@gmail.com
 - [My resume](https://costafacchini.github.io/resume/)
 
 ## Professional profile
