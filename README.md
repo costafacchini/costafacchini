@@ -8,7 +8,10 @@
 - [My resume](https://costafacchini.github.io/resume/)
 
 ## Professional profile
-<a href="https://www.linkedin.com/in/alanfacchini/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="costafacchini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alanfacchini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="costafacchini" height="30" width="40" /></a>
+
+## Professional website
+<a href="https://costafacchini.dev" target="blank">costafacchini.dev</a>
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costafacchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,8 +24,6 @@
 
 ## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costafacchini&show_icons=true&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costafacchini" alt="costafacchini" /></a> </p>
 
 <!--
 **costafacchini/costafacchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
